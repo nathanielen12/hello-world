@@ -1,3 +1,0 @@
-sad=9
-for=10
-print(sad*for)
